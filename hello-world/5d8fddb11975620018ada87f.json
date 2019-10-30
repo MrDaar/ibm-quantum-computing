@@ -1,0 +1,122 @@
+{
+  "backend_name": "ibmq_16_melbourne",
+  "backend_version": "1.1.0",
+  "date": "2019-09-28T23:16:02Z",
+  "execution_id": "e8b3a992-e245-11e9-8c68-60a44c62b5b4",
+  "header": {},
+  "job_id": "unknown",
+  "qobj_id": "a334c42d-82c1-4c88-993d-d5f35831c1e1",
+  "results": [
+    {
+      "data": {
+        "counts": {
+          "0x0": 559,
+          "0x1": 45,
+          "0x2": 59,
+          "0x3": 361
+        }
+      },
+      "header": {
+        "clbit_labels": [
+          [
+            "c",
+            0
+          ],
+          [
+            "c",
+            1
+          ],
+          [
+            "c",
+            2
+          ],
+          [
+            "c",
+            3
+          ],
+          [
+            "c",
+            4
+          ]
+        ],
+        "creg_sizes": [
+          [
+            "c",
+            5
+          ]
+        ],
+        "memory_slots": 5,
+        "n_qubits": 14,
+        "name": "circuit7767",
+        "qreg_sizes": [
+          [
+            "q",
+            14
+          ]
+        ],
+        "qubit_labels": [
+          [
+            "q",
+            0
+          ],
+          [
+            "q",
+            1
+          ],
+          [
+            "q",
+            2
+          ],
+          [
+            "q",
+            3
+          ],
+          [
+            "q",
+            4
+          ],
+          [
+            "q",
+            5
+          ],
+          [
+            "q",
+            6
+          ],
+          [
+            "q",
+            7
+          ],
+          [
+            "q",
+            8
+          ],
+          [
+            "q",
+            9
+          ],
+          [
+            "q",
+            10
+          ],
+          [
+            "q",
+            11
+          ],
+          [
+            "q",
+            12
+          ],
+          [
+            "q",
+            13
+          ]
+        ]
+      },
+      "shots": 1024,
+      "success": true
+    }
+  ],
+  "status": "Successful completion",
+  "success": true
+}
